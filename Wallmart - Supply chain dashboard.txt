@@ -1,0 +1,18 @@
+Wallmart - Supply chain dashboard. It's my first published Power BI report. 
+I started creating it during my studies on course "Techics of effective communication of results".
+
+I received "Wallmart - Supply chain dashboard.xlsx" containing sheet: "Wallmart" with columns:
+Column A - Order ID
+Column B - Order Date
+Column C - Ship Date
+Column D - Customer Name
+Column E - Country
+Column F - City
+Column G - State
+Column H - Category (product category of saled product)
+Column I - Product Name
+Column J - Sales
+Column K - Quantity
+Column L - Profit
+
+
